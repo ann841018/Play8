@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Play8/Play8.unity
+  isLoaded: 1
+  isActive: 1
